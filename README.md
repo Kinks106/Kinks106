@@ -1,42 +1,28 @@
 # Hi, I'm Kinnshuk Bhaduri 👋
 
-### Python Developer | Data Analytics | Machine Learning | AI
+**Python Developer | Data Analytics | Excel Automation | Machine Learning**
 
-I'm an AI & Data Science engineering student interested in building practical solutions using Python, Machine Learning and Artificial Intelligence.
+I'm an AI & Data Science engineering student who builds practical Python tools for cleaning data, automating spreadsheet work, and exploring machine-learning ideas. I value clear inputs and outputs, reproducible results, and useful documentation.
 
-I enjoy working on data-driven applications, intelligent systems, automation and deep learning architectures.
+## What I can help with
 
-## What I Work With
+- **Excel and CSV workflows:** clean, validate, standardize, and report on tabular data.
+- **Data analysis:** explore datasets, visualize patterns, and explain findings and limitations.
+- **Python automation:** turn repetitive data tasks into documented scripts.
+- **Machine-learning prototypes:** establish baselines, evaluate models, and describe where they may fail.
 
-- **Languages:** Python, Java, SQL
-- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn
-- **Machine Learning:** Scikit-learn, Classification, Regression, Clustering
-- **Deep Learning:** Neural Networks, CNNs, Transformers, NLP
-- **AI Engineering:** LangGraph, LLM Integration, AI Agents
-- **Tools:** Git, GitHub, Jupyter Notebook, VS Code
+## Selected work
 
-## Featured Projects
+- **[Excel & CSV Cleanup Toolkit](https://github.com/Kinks106/excel-csv-cleanup-toolkit)** — a configurable Python CLI that cleans sample spreadsheet data and produces a JSON processing report. Fresh install, 17 tests, and the sample run were verified on 6 November 2026.
+- **[Machine Learning & Data Science Portfolio](https://github.com/Kinks106/machine-learning-and-data-science-portfolio)** — learning and demonstration projects spanning analysis, classification, deep learning, and recommender systems. The portfolio README cleanup is currently in [PR #1](https://github.com/Kinks106/machine-learning-and-data-science-portfolio/pull/1).
+- **[Agentic AI Workflow](https://github.com/Kinks106/et-hackathon-ai-agent)** — a LangGraph, FastAPI, and React workflow project. Setup documentation is being reviewed.
+- **[GPT From Scratch](https://github.com/Kinks106/GPT-v1-from-scratch)** — an implementation project for studying transformer fundamentals.
 
-### 1. Machine Learning Portfolio
-A collection of machine learning, deep learning and data science projects.
+## Tools I use
 
-### 2. GPT From Scratch
-Exploring transformer architectures, tokenization, embeddings and self-attention through implementation.
+Python, pandas, NumPy, scikit-learn, Jupyter, Git, and GitHub. I also work with FastAPI, LangGraph, and deep-learning frameworks in selected projects.
 
-### 3. Agentic Enterprise AI System
-A multi-agent workflow system using LangGraph, FastAPI and Gemini.
+## Connect
 
-### 4. Music Genre Classification
-A machine learning project exploring music classification.
-
-## Current Interests
-
-- Machine Learning and Deep Learning
-- AI Agent Development
-- Data Analytics and Automation
-- Applied AI Research
-
-## Connect With Me
-
-- GitHub: https://github.com/Kinks106
-- LinkedIn: https://www.linkedin.com/in/kinnshuk-bhaduri/
+- [LinkedIn](https://www.linkedin.com/in/kinnshuk-bhaduri/)
+- [GitHub](https://github.com/Kinks106)
